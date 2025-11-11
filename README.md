@@ -59,7 +59,7 @@ CREATE TABLE messages (
 Setup & Run
 -----------
 1. Clone repo
- git clone https://github.com/your-username/relay.git
+ git clone https://github.com/amitsinghrawat777/Relay
  cd relay
 2. Install dependencies
  npm install

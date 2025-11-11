@@ -85,4 +85,4 @@ DB: Supabase / Neon
 KMS: AWS or GCP
 License
 -------
-MIT License © 2025 Amit
+MIT License © 2025 A.myth
